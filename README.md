@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Git-banner.png" alt="Dark Banner" width="100%" height="50%"/>
+  <img src="Git-banner.png" alt="Dark Banner" width="100%"/>
 </p>
 <h1 align="center">Hi 👋, I'm Neel Patel!</h1>
 <h3 align="center">A Software Engineer specializing in Asp MVC Core with Version 5.9 - 9.0 ,AI/ML and Cloud Technologies.</h3>
